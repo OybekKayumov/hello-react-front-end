@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project hello-react-front-end
+# hello-react-front-end
 
 > Description the project.
 
